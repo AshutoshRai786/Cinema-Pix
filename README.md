@@ -2,4 +2,3 @@
 
 Cinema Pix is a cinema showtime aggregator application that displays movie showtimes at different cinemas and the movies shown in those cinemas, across Sydney.
 
-![Map View](Map View.png)
