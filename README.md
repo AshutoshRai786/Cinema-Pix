@@ -1,2 +1,2 @@
-# Cinema-Pix
-Cinema Pix iOS Application
+# Cinema Pix iOS Application
+
