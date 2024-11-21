@@ -7,3 +7,9 @@ Cinema Pix is a cinema showtime aggregator application that displays movie showt
 
 ## Movie Showtimes
 ![MovieShowtimes](Movie%20Showtimes.png)
+
+## Suburb Search
+![SuburbSearch](Suburb%20Search.png)
+
+## User Preferences
+![UserPreferences](User%20Preferences.png)
